@@ -1,0 +1,22 @@
+Feedback on your task can be found below.
+
+Hi Gaston, Naming Convention and Framing query look perfect. There are a few changes to be made. 
+
+1. Please look at the columns joined for the tables Property and OwnerProperty. 
+2. Calculate the Yield. (That's not the exactly calculated column if you cross-check it doesn't satisfy). {[ Sum of payments -sum of expenses]/[Homevalue]}*100. 
+3. Giving alias names looks good. Example : p.[Name] AS PropertyName. 
+4.For the part of the report, have you given hardcoded values for the current owner as ABCD and so on? 
+
+
+Regards, Vishrutha.
+
+
+
+Hello Vishrutha
+
+1. I've Fixed the columns joined
+2. I calculated the yield with the formula that you gave to me.
+3. I assigned proper name to the columns.
+4. I've attached a picture with the design tab. The Current owner and the other rows I created Text boxes. For the Table I created a DB.
+
+Thank you!
